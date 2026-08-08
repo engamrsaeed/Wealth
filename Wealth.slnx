@@ -1,0 +1,8 @@
+<Solution>
+  <Folder Name="/src/">
+    <Project Path="src/Wealth.Api/Wealth.Api.csproj" />
+    <Project Path="src/Wealth.Application/Wealth.Application.csproj" />
+    <Project Path="src/Wealth.Domain/Wealth.Domain.csproj" />
+    <Project Path="src/Wealth.Infrastructure/Wealth.Infrastructure.csproj" />
+  </Folder>
+</Solution>
